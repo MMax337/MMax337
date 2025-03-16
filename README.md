@@ -34,6 +34,8 @@ A simple toy website built with **React** on the frontend and **Django** on the 
 - Backend built with **Django**.
 - [GitHub Repository](https://github.com/MMax337/LittleLemon)
 
+# LeetCode stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Max337)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MMax337&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
