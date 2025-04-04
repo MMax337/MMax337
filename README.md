@@ -23,6 +23,11 @@ A **Java** application for solving logic formulas related to **parallel circuits
 - Built with **Java** and **Concurrency** techniques (threads and ForkJoinPool).
 - [GitHub Repository](https://github.com/MMax337/Parallel-Circuit-Solver)
 
+## Languages-n-Seals
+A static html site styled with TailwindCSS for the university project.
+- [Page Link](https://mmax337.github.io/languages-and-seals/)
+- [GitHub Repository](https://github.com/MMax337/languages-and-seals)
+
 ## DoctorWho
 A **C++** game simulation where players move on a board and use different strategies for playing. The game computes the statistics over the optimal strategy.
 - Built with **C++**.
