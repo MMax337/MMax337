@@ -26,7 +26,7 @@ A **Java** application for solving logic formulas related to **parallel circuits
 ## Peer Time Sync
 A **C++** implementation of a peer-to-peer network clock synchronization system that uses the **Network Time Protocol** (NTP) algorithm. The system allows nodes to synchronize their clocks while accounting for network packet travel times.
 
-- UDP socket programming for low-level network communication
+- **UDP socket** programming for low-level network communication
 - Uses the NTP synchronization algorithm to calculate precise time offsets between nodes
 - [GitHub Repository](https://github.com/MMax337/p2p-time-sync)
 
