@@ -23,6 +23,14 @@ A **Java** application for solving logic formulas related to **parallel circuits
 - Built with **Java** and **Concurrency** techniques (threads and ForkJoinPool).
 - [GitHub Repository](https://github.com/MMax337/Parallel-Circuit-Solver)
 
+## Peer Time Sync
+A **C++** implementation of a peer-to-peer network clock synchronization system that uses the **Network Time Protocol** (NTP) algorithm. The system allows nodes to synchronize their clocks while accounting for network packet travel times.
+
+- UDP socket programming for low-level network communication
+- Uses the NTP synchronization algorithm to calculate precise time offsets between nodes
+- [GitHub Repository](https://github.com/MMax337/p2p-time-sync)
+
+
 ## Moore Automaton Library
 A **C** library for simulating Moore automata, providing robust functions for creating and manipulating Moore machines, including state transitions, input/output management, and synchronization of multiple automata.
 - Built with C for high performance and efficiency, with a focus on robustness and reliability.
